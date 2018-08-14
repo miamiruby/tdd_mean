@@ -1,0 +1,3 @@
+{
+    "DBHost": "mongodb://armour:password@dlocalhost:26104/armour_test"
+}
